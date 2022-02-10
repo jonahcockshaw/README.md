@@ -18,6 +18,6 @@ I'm currently learning and building with:
 ## Connect w/ me
 
 You can reach me here:
-* Twitter: twitter.com/jonahcockshaw
-* LinkedIn: linkedin.com/in/jonahcockshaw
+* Twitter: https://www.twitter.com/jonahcockshaw
+* LinkedIn: https://www.linkedin.com/in/jonahcockshaw
 * Email: jonah@fitmedia.net
