@@ -1,3 +1,8 @@
-## Hey, I'm Jonah! 
+## Hey, I'm Jonah! 👋🏼
 
-I'm currently learning how to code, with a keen interest in Web Development, Sales & Marketing, Machine Learning, Data Analysis, Web Apps etc.
+I'm currently learning and building with:
+* 💻 HTML & CSS
+* 📜 Javascript
+* 🐍 Python 
+
+I have a keen interest in Marketing, Sales, Data Analysis, Machine Learning, Automation and Web Development.
