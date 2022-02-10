@@ -18,6 +18,6 @@ Outside of this I also work on a number of other projects, and with businesses o
 ## Connect w/ me
 
 You can reach me here:
-Twitter: twitter.com/jonahcockshaw
-LinkedIn: linkedin.com/in/jonahcockshaw
-Email: jonah@fitmedia.net
+* Twitter: twitter.com/jonahcockshaw
+* LinkedIn: linkedin.com/in/jonahcockshaw
+* Email: jonah@fitmedia.net
